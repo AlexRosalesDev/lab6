@@ -216,3 +216,5 @@ GET /api/dogs/{id} - Obtener un perro por ID (retorna 404 si no existe)
 POST /api/dogs - Crear un nuevo perro
 PUT /api/dogs/{id} - Actualizar un perro existente (retorna 404 si no existe)
 DELETE /api/dogs/{id} - Eliminar un perro (retorna 404 si no existe)
+
+## Laboratorio 6 - Completado el mié 24 sep 2025 08:02:48 CST
